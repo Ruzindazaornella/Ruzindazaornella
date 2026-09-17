@@ -11,3 +11,21 @@
 - 💬 Ask me about React, React Native , Node.js
 
 - --------------------------------------------------------------
+
+## 🛠️ Skills 
+- 💻 JavaScript & TypeSCript
+- ⚛️ React & Next.js
+- 🟢 Node.js
+- 📱 React Native
+- 🗄️ Firebase
+
+- ------------------------------------------------------------------
+
+## 📊 GitHub stats
+
+
+---------------------------------------------------------------------
+
+## 🤝 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/keza-ruzindaza-ornellaa-144270384)
+- 📧 [Email](mailto:kezaruzindazaornellaa@gmail.com)
